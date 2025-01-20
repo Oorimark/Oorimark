@@ -13,13 +13,11 @@ Professional Identity I am a dedicated software developer who thrives on buildin
 3. Experience with backend technologies for scalable solutions, such as Node.js, Express, and Python.
 4. Skilled in algorithms and simulations, such as spin-lattice simulations, Monte Carlo algorithms, and computational optimization.
 5. Proficient in data visualization tools for conveying insights clearly and effectively.
-6.
 
 ### Soft Skills: 
 1. Problem-solving: I excel in analyzing challenges and breaking them into manageable parts to implement effective solutions.
 2. Continuous learner: I quickly adapt to new technologies, trends, and methodologies to enhance my work.
 3. Team collaboration: I communicate clearly and work well in cross-functional teams to deliver high-quality results.
-4.
 
 ### Personal Strengths with Examples 
 1. Perseverance: I don’t give up until I achieve excellence. For instance, while working on a flood-risk prediction tool project, I delved into unfamiliar data science techniques and successfully implemented a robust, efficient solution before the deadline.
